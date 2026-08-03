@@ -1,72 +1,84 @@
-<p align="center">
-  <img src="./nikolay-photo.jpg" width="260" alt="Николай Пылев">
+<div align="center">
+
+<img src="./assets/header.svg" width="100%" alt="Nikolay Pylev — web tools, automation and digital products" />
+
+<br />
+
+<img src="./nikolay-photo.jpg" width="190" alt="Nikolay Pylev" />
+
+<h2>Hi, I'm Nikolay 👋</h2>
+
+<p>
+  I build practical web tools and automation for real-world workflows.<br>
+  TypeScript / Node.js / React — with a soft spot for APIs, tracking systems and clean product UX.
 </p>
 
-<h1 align="center">Николай Пылев</h1>
+<a href="https://s2slab.ru/"><img src="https://img.shields.io/badge/LIVE_PROJECT-s2slab.ru-8B5CF6?style=for-the-badge&logo=cloudflare&logoColor=white" alt="S2S Lab live" /></a>
+<a href="https://github.com/Sarkozy0707?tab=repositories"><img src="https://img.shields.io/badge/VIEW-REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
-<p align="center">
-  <strong>Account Team Lead</strong><br>
-  Performance &amp; Brandformance Marketing
-</p>
+</div>
 
-<p align="center">
-  Соединяю бизнес-цели, рекламную стратегию, клиентский сервис<br>
-  и техническую реализацию — от первой встречи до масштабирования.
-</p>
+<br />
 
-<p align="center">
-  <a href="https://github.com/Sarkozy0707/postpilot">PostPilot</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Sarkozy0707/s2s-lab">S2S Lab</a>
-</p>
+## ⚡ Tech I use
 
----
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=60A5FA)
+
+</div>
+
+<br />
+
+## 🚀 Featured builds
 
 <table>
   <tr>
-    <td align="center"><strong>60,7 млн ₽</strong><br><sub>прибыль по проектам<br>в управлении</sub></td>
-    <td align="center"><strong>2,3 года</strong><br><sub>в digital-рекламе<br>и клиентском сервисе</sub></td>
-    <td align="center"><strong>Enterprise</strong><br><sub>крупные клиенты<br>и сложные интеграции</sub></td>
-    <td align="center"><strong>20 отраслей</strong><br><sub>от FinTech и Retail<br>до SaaS и Gaming</sub></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Sarkozy0707/postpilot">
+        <img src="./assets/postpilot.svg" width="100%" alt="PostPilot" />
+      </a>
+      <p align="center">
+        <a href="https://postpilot.s2slab.ru/"><b>Live demo ↗</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/Sarkozy0707/postpilot">Source code</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Sarkozy0707/s2s-lab">
+        <img src="./assets/s2s-lab.svg" width="100%" alt="S2S Lab" />
+      </a>
+      <p align="center">
+        <a href="https://s2slab.ru/"><b>Live demo ↗</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/Sarkozy0707/s2s-lab">Source code</a>
+      </p>
+    </td>
   </tr>
 </table>
 
-## Профиль
+<br />
 
-Управляю полным циклом рекламных проектов: квалифицирую бизнес-задачу, проектирую решение и воронку, считаю экономику, координирую интеграцию, анализирую результаты и развиваю сотрудничество.
+## 📊 GitHub snapshot
 
-Мой рабочий фокус — проекты, где коммерческая логика, маркетинг, продукт, аналитика и разработка должны собраться в одну работающую систему.
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarkozy0707&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=CBD5E1&ring_color=8B5CF6" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarkozy0707&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=CBD5E1" alt="Top languages" />
+</div>
 
-`Enterprise Accounts` · `Team Leadership` · `Media Planning` · `Campaign Strategy` · `CustDev`
+<br />
 
-`CPA / CPI / CPC / CPM` · `Attribution` · `S2S Postback` · `REST API` · `SQL`
+<div align="center">
 
-## Избранные проекты
+`build → test → ship → improve`
 
-### 01 / [PostPilot](https://github.com/Sarkozy0707/postpilot)
+<sub>Useful products over decorative code.</sub>
 
-Self-hosted workspace для подготовки Telegram-размещений: визуальная сборка креатива, live preview, хранение в SQLite и публикация через бота или канал.
-
-**Live:** [postpilot.s2slab.ru](https://postpilot.s2slab.ru/)  
-**Stack:** Node.js · SQLite · Telegram Bot API · Docker
-
-### 02 / [S2S Lab](https://github.com/Sarkozy0707/s2s-lab)
-
-Интерактивная учебная среда для практики tracking URL, редиректов, ClickID, конверсий и server-to-server postback без доступа к production-платформе.
-
-**Live:** [s2slab.ru](https://s2slab.ru/)  
-**Stack:** React · Cloudflare Workers · D1 · Drizzle ORM · Docker
-
-## Как я работаю
-
-- Перевожу бизнес-задачу в понятную рекламную стратегию и измеримую воронку.
-- Совмещаю стратегическое планирование с контролем операционной реализации.
-- Объединяю аккаунтинг, продукт, разработку, аналитику и партнёров вокруг результата.
-- Спокойно работаю с крупными бюджетами, длинными циклами и многоэтапными интеграциями.
-- Ищу возможности улучшить решение, а не просто выполнить исходный запрос.
-
----
-
-<p align="center">
-  <sub>Business × Marketing × Product × Technology</sub>
-</p>
+</div>
