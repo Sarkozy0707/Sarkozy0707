@@ -2,10 +2,6 @@
 
 <img src="./assets/header.svg" width="100%" alt="Nikolay Pylev — web tools, automation and digital products" />
 
-<br />
-
-<img src="./nikolay-photo.jpg" width="190" alt="Nikolay Pylev" />
-
 <h2>Hi, I'm Nikolay 👋</h2>
 
 <p>
@@ -66,12 +62,9 @@
 
 <br />
 
-## 📊 GitHub snapshot
+## 🧭 Current focus
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarkozy0707&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=CBD5E1&ring_color=8B5CF6" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarkozy0707&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=CBD5E1" alt="Top languages" />
-</div>
+<img src="./assets/focus.svg" width="100%" alt="Useful web tools, workflow automation and tracking systems" />
 
 <br />
 
