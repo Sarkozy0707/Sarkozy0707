@@ -19,7 +19,6 @@
 
 <div align="center">
 
-<a href="https://s2slab.ru/"><img src="https://img.shields.io/badge/LIVE_PROJECT-s2slab.ru-8B5CF6?style=for-the-badge&logo=cloudflare&logoColor=white" alt="S2S Lab live" /></a>
 <a href="https://github.com/Sarkozy0707?tab=repositories"><img src="https://img.shields.io/badge/VIEW-REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
@@ -48,24 +47,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Sarkozy0707/postpilot">
-        <img src="./assets/postpilot.svg" width="100%" alt="PostPilot" />
-      </a>
-      <p align="center">
-        <a href="https://postpilot.s2slab.ru/"><b>Live demo →</b></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/Sarkozy0707/postpilot">Source code</a>
-      </p>
+      <img src="./assets/postpilot.svg" width="100%" alt="PostPilot" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Sarkozy0707/s2s-lab">
-        <img src="./assets/s2s-lab.svg" width="100%" alt="S2S Lab" />
-      </a>
-      <p align="center">
-        <a href="https://s2slab.ru/"><b>Live demo →</b></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/Sarkozy0707/s2s-lab">Source code</a>
-      </p>
+      <img src="./assets/s2s-lab.svg" width="100%" alt="S2S Lab" />
     </td>
   </tr>
 </table>
