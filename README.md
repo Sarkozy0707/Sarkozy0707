@@ -1,76 +1,51 @@
-<div align="center">
+<img src="./assets/header.svg" width="100%" alt="Nikolay Pylev — automation, data and applied AI" />
 
-<img src="./assets/header.svg" width="100%" alt="Welcome to Nikolay Pylev's GitHub" />
+I work across digital operations, analytics and AI-assisted development. My background combines team leadership, client-facing work and technical integrations.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=TypeScript+%C2%B7+Node.js+%C2%B7+React;Building+web+tools+%26+automation;APIs+%C2%B7+tracking+%C2%B7+product+UX" alt="Typing SVG" />
-</a>
+## 01 / Practice
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:8B5CF6,100:D946EF&height=2&section=header" width="100%" alt="" />
+- Turn working requirements into interface flows, data rules and small, testable changes.
+- Use AI for implementation, prototyping and debugging; verify the output against data and real workflows.
+- Work with APIs, S2S postbacks, Web SDKs, tracking pixels and conversion attribution.
+- Connect operational context with technical implementation and feedback from the people using it.
 
-</div>
+## 02 / Toolkit
 
-## ◈ About me
+Technologies used in my work, grouped by area rather than proficiency rating.
 
-- Building practical web tools and internal products
-- Working with **TypeScript, Node.js and React**
-- Interested in APIs, S2S tracking and workflow automation
-- Turning experiments into live, useful products
+| Area | Tools |
+| :--- | :--- |
+| Languages | TypeScript · JavaScript · SQL |
+| Interfaces | React · Next.js · Tailwind CSS |
+| Runtime & tooling | Node.js · Vite · Electron |
+| Data | PostgreSQL · SQLite · Drizzle ORM · Supabase |
+| Delivery | Docker · Cloudflare · GitHub Actions |
+| Validation | Node.js test runner · ESLint · TypeScript checks |
 
-<div align="center">
-
-<a href="https://github.com/Sarkozy0707?tab=repositories"><img src="https://img.shields.io/badge/VIEW-REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-
-</div>
-
-<br />
-
-## ◈ Technologies & tools
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=60A5FA)
-
-</div>
+<details>
+<summary><strong>03 / Technical context</strong></summary>
 
 <br />
 
-## ◈ Featured projects
+API integrations, client-server interaction, HTTP/HTTPS, DNS and data transfer between systems.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/postpilot.svg" width="100%" alt="PostPilot" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/s2s-lab.svg" width="100%" alt="S2S Lab" />
-    </td>
-  </tr>
-</table>
+Foundational knowledge of CI/CD, Docker, Kubernetes, Nginx, Kafka, OSI and TCP/IP. I distinguish using a tool from operating it at an expert level.
+
+</details>
+
+<details>
+<summary><strong>04 / Background</strong></summary>
 
 <br />
 
-## ◈ Current signal
+Account Team Lead background: coordinating people, working with enterprise clients, managing expectations, and connecting commercial, operational and technical requirements.
 
-<img src="./assets/focus.svg" width="100%" alt="Useful web tools, workflow automation and tracking systems" />
+I am interested in automation, analytics and practical applications of AI, without limiting my work to one job title.
 
-<br />
+Outside work: video editing and post-production in DaVinci Resolve.
 
-<div align="center">
+</details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:8B5CF6,100:D946EF&height=2&section=header" width="100%" alt="" />
+---
 
-<br />
-
-`build → connect → ship → improve`
-
-<sub>Useful products over decorative code.</sub>
-
-</div>
+**Contact:** [Telegram](https://t.me/Sarkozy0) · [LinkedIn](https://www.linkedin.com/in/nikolay-pylev-849ba9425/)
