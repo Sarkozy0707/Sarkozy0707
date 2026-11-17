@@ -1,99 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Welcome to Nikolay Pylev's GitHub — web tools, automation and digital products">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#050811"/>
-      <stop offset="0.54" stop-color="#101327"/>
-      <stop offset="1" stop-color="#190d29"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#22d3ee"/>
-      <stop offset=".48" stop-color="#8b5cf6"/>
-      <stop offset="1" stop-color="#d946ef"/>
-    </linearGradient>
-    <radialGradient id="violetGlow">
-      <stop stop-color="#8b5cf6" stop-opacity=".46"/>
-      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="cyanGlow">
-      <stop stop-color="#22d3ee" stop-opacity=".35"/>
-      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0V44" fill="none" stroke="#c4b5fd" stroke-opacity=".055"/>
-    </pattern>
-    <filter id="blur"><feGaussianBlur stdDeviation="30"/></filter>
-    <filter id="nodeGlow">
-      <feGaussianBlur stdDeviation="4" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-
-  <rect width="1200" height="420" rx="30" fill="url(#bg)"/>
-  <rect width="1200" height="420" rx="30" fill="url(#grid)"/>
-  <circle cx="1040" cy="120" r="240" fill="url(#violetGlow)" filter="url(#blur)"/>
-  <circle cx="890" cy="355" r="180" fill="url(#cyanGlow)" filter="url(#blur)"/>
-  <path d="M0 346C218 278 373 402 610 336S998 257 1200 325V420H0Z" fill="#8b5cf6" opacity=".055"/>
-
-  <g transform="translate(70 58)">
-    <rect width="248" height="34" rx="17" fill="#fff" fill-opacity=".055" stroke="#fff" stroke-opacity=".12"/>
-    <circle cx="19" cy="17" r="5" fill="#a3e635" filter="url(#nodeGlow)">
-      <animate attributeName="opacity" values=".45;1;.45" dur="2.4s" repeatCount="indefinite"/>
-    </circle>
-    <text x="34" y="22" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="1.7">SIGNAL IS ONLINE</text>
-  </g>
-
-  <text x="70" y="145" fill="#94a3b8" font-family="Consolas,Menlo,monospace" font-size="16" letter-spacing="3">WELCOME TO</text>
-  <text x="70" y="221" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="72" font-weight="800" letter-spacing="-2">NIKOLAY'S</text>
-  <text x="70" y="296" fill="url(#accent)" font-family="Segoe UI,Arial,sans-serif" font-size="72" font-weight="800" letter-spacing="-2">GITHUB</text>
-  <text x="74" y="337" fill="#94a3b8" font-family="Consolas,Menlo,monospace" font-size="19">web tools · automation · digital products</text>
-  <g transform="translate(73 365)">
-    <rect width="54" height="4" rx="2" fill="#22d3ee"/>
-    <rect x="62" width="90" height="4" rx="2" fill="#8b5cf6"/>
-    <rect x="160" width="34" height="4" rx="2" fill="#d946ef"/>
-  </g>
-
-  <g transform="translate(770 64)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="190" cy="146" r="133" stroke="#8b5cf6" stroke-opacity=".12"/>
-    <circle cx="190" cy="146" r="94" stroke="#22d3ee" stroke-opacity=".13" stroke-dasharray="4 12"/>
-    <circle cx="190" cy="146" r="54" stroke="#d946ef" stroke-opacity=".16"/>
-
-    <g stroke-width="1.5">
-      <path d="M76 82L142 50L190 146L258 82L306 124" stroke="#8b5cf6" stroke-opacity=".55"/>
-      <path d="M92 218L152 186L190 146L238 214L298 190" stroke="#22d3ee" stroke-opacity=".5"/>
-      <path d="M76 82L92 218M142 50L258 82M306 124L298 190M152 186L238 214" stroke="#c4b5fd" stroke-opacity=".22"/>
-      <path d="M142 50L152 186M258 82L238 214" stroke="#d946ef" stroke-opacity=".2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Nikolay Pylev</title>
+  <desc id="desc">Automation, data and applied AI. A personal file with blue, green, violet and paper folder dividers.</desc>
+  <rect width="1200" height="460" rx="8" fill="#151513"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="58" y="52" fill="#aaa69d" font-family="Consolas,monospace" font-size="13">NP / PERSONAL FILE</text>
+    <text x="55" y="148" fill="#f1ede3" font-size="80" font-weight="800">NIKOLAY</text>
+    <text x="55" y="238" fill="#f1ede3" font-size="80" font-weight="800">PYLEV</text>
+    <path d="M58 270H548" stroke="#f1ede3" stroke-opacity=".3"/>
+    <text x="58" y="309" fill="#f1ede3" font-family="Consolas,monospace" font-size="18">AUTOMATION / DATA / APPLIED AI</text>
+    <text x="58" y="348" fill="#aaa69d" font-size="18">Digital operations. AI-assisted development.</text>
+    <text x="58" y="376" fill="#aaa69d" font-size="18">Technical integrations. Team leadership.</text>
+    <g transform="translate(650 62)">
+      <g transform="rotate(3 240 160)">
+        <rect x="28" y="0" width="422" height="300" rx="5" fill="#d6d1c7"/>
+        <rect x="18" y="7" width="422" height="300" rx="5" fill="#f1ede3"/>
+        <path d="M52 34H394M52 48H260" fill="none" stroke="#151513" stroke-opacity=".22"/>
+      </g>
+      <path d="M0 63Q0 55 8 55H23Q30 55 34 49L48 29Q52 23 61 23H189Q197 23 202 29L218 49Q222 55 230 55H472Q480 55 480 63V310H0Z" fill="#315be8"/>
+      <path d="M10 57H470" stroke="#fffdf7" stroke-opacity=".22"/>
+      <text x="52" y="47" fill="#fffdf7" font-family="Georgia,serif" font-size="22">Profile</text>
+      <text x="438" y="84" fill="#fffdf7" font-family="Consolas,monospace" font-size="10">01</text>
+      <path d="M0 130Q0 122 8 122H23Q30 122 34 116L48 96Q52 90 61 90H219Q227 90 232 96L248 116Q252 122 260 122H472Q480 122 480 130V310H0Z" fill="#137b65"/>
+      <path d="M10 124H470" stroke="#fffdf7" stroke-opacity=".22"/>
+      <text x="52" y="114" fill="#fffdf7" font-family="Georgia,serif" font-size="22">Practice</text>
+      <text x="438" y="151" fill="#fffdf7" font-family="Consolas,monospace" font-size="10">02</text>
+      <path d="M0 197Q0 189 8 189H23Q30 189 34 183L48 163Q52 157 61 157H249Q257 157 262 163L278 183Q282 189 290 189H472Q480 189 480 197V310H0Z" fill="#6a2d82"/>
+      <path d="M10 191H470" stroke="#fffdf7" stroke-opacity=".22"/>
+      <text x="52" y="181" fill="#fffdf7" font-family="Georgia,serif" font-size="22">Toolkit</text>
+      <text x="438" y="218" fill="#fffdf7" font-family="Consolas,monospace" font-size="10">03</text>
+      <path d="M0 264Q0 256 8 256H23Q30 256 34 250L48 230Q52 224 61 224H279Q287 224 292 230L308 250Q312 256 320 256H472Q480 256 480 264V338Q480 346 472 346H8Q0 346 0 338Z" fill="#f1ede3"/>
+      <text x="52" y="248" fill="#151513" font-family="Georgia,serif" font-size="22">Background</text>
+      <text x="438" y="285" fill="#151513" font-family="Consolas,monospace" font-size="10">04</text>
+      <path d="M34 304H446" stroke="#151513" stroke-opacity=".25"/>
+      <text x="34" y="330" fill="#514e47" font-family="Consolas,monospace" font-size="11">PEOPLE / PROCESSES / TECHNOLOGY</text>
     </g>
-
-    <g filter="url(#nodeGlow)">
-      <circle cx="76" cy="82" r="5" fill="#22d3ee"/>
-      <circle cx="142" cy="50" r="6" fill="#8b5cf6"/>
-      <circle cx="190" cy="146" r="10" fill="#f8fafc"/>
-      <circle cx="258" cy="82" r="6" fill="#d946ef"/>
-      <circle cx="306" cy="124" r="5" fill="#22d3ee"/>
-      <circle cx="92" cy="218" r="5" fill="#8b5cf6"/>
-      <circle cx="152" cy="186" r="6" fill="#22d3ee"/>
-      <circle cx="238" cy="214" r="6" fill="#d946ef"/>
-      <circle cx="298" cy="190" r="5" fill="#8b5cf6"/>
-    </g>
-
-    <circle cx="190" cy="146" r="16" stroke="#fff" stroke-opacity=".65">
-      <animate attributeName="r" values="14;29;14" dur="2.8s" repeatCount="indefinite"/>
-      <animate attributeName="stroke-opacity" values=".7;0;.7" dur="2.8s" repeatCount="indefinite"/>
-    </circle>
-
-    <circle r="4" fill="#22d3ee" filter="url(#nodeGlow)">
-      <animateMotion dur="3.5s" repeatCount="indefinite" path="M76 82L142 50L190 146L258 82L306 124"/>
-    </circle>
-    <circle r="4" fill="#d946ef" filter="url(#nodeGlow)">
-      <animateMotion dur="4.2s" repeatCount="indefinite" path="M92 218L152 186L190 146L238 214L298 190"/>
-    </circle>
-
-    <g font-family="Consolas,Menlo,monospace" font-size="13">
-      <rect x="116" y="273" width="148" height="34" rx="17" fill="#070b14" fill-opacity=".75" stroke="#fff" stroke-opacity=".12"/>
-      <circle cx="135" cy="290" r="4" fill="#a3e635"/>
-      <text x="147" y="295" fill="#cbd5e1">build · connect · ship</text>
-    </g>
+    <path d="M58 421H1142" stroke="#f1ede3" stroke-opacity=".22"/>
+    <rect x="58" y="420" width="78" height="3" fill="#edda38"/>
+    <text x="1142" y="445" text-anchor="end" fill="#aaa69d" font-family="Consolas,monospace" font-size="10">GITHUB / SARKOZY0707</text>
   </g>
-
-  <rect x="1" y="1" width="1198" height="418" rx="29" fill="none" stroke="url(#accent)" stroke-opacity=".38" stroke-width="2"/>
 </svg>
